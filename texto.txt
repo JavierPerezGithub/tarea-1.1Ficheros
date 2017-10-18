@@ -1,0 +1,1 @@
+Crea una clase java que abra un fichero de texto y saque por pantalla el texto con todas las vocales sustituidas por la letra a. 
